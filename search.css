@@ -1,0 +1,31 @@
+
+body{
+
+    background-size: cover;
+    background-image: url(img1.jpg);
+    background-repeat: no-repeat;
+    
+}
+.container{
+    margin-top:50px ;
+    padding: 20px 40px ;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.form-label{
+    font-size: 15px;
+    font-weight: 400;
+}
+option { 
+  
+    font-size: 15px;
+   
+}
+#filter{
+    font-size: 15px;
+}
+.gender{
+    font-size: 20px;
+}
